@@ -1,0 +1,25 @@
+2025-04-09 16:27:17 INFO  TC001_AccountRegistrationTest:20 - clicked on the Registration
+2025-04-09 16:27:19 INFO  TC001_AccountRegistrationTest:43 - TC001 Account Registration TestCase Finished
+2025-04-09 16:27:23 INFO  TC002_LoginTest:17 - Staring TC001_Login
+2025-04-09 16:27:25 INFO  TC002_LoginTest:32 - Finished TC002_Login Sucess full
+2025-04-09 16:29:59 INFO  TC001_AccountRegistrationTest:13 - Staring TC001_AccountRegistration
+2025-04-09 16:29:59 INFO  TC001_AccountRegistrationTest:17 - clicked on the myaccount
+2025-04-09 16:30:00 INFO  TC001_AccountRegistrationTest:20 - clicked on the Registration
+2025-04-09 16:30:02 ERROR TC001_AccountRegistrationTest:39 - testfailedunknown error: unhandled inspector error: {"code":-32000,"message":"Node with given id does not belong to the document"}
+  (Session info: chrome=135.0.7049.84)
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [bb4f105ad54dc9f024c4306bbbd912e8, sendKeysToElement {value=[Ljava.lang.CharSequence;@256aa5f2, id=f.348DB454172C76F4F67F1F815111FB4C.d.D87F50122C0997674AC0406E761B4DDD.e.53}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.84, chrome: {chromedriverVersion: 135.0.7049.84 (6c019e560019..., userDataDir: C:\Users\SRIKAN~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51131}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51131/devtoo..., se:cdpVersion: 135.0.7049.84, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (bb4f105ad54dc9f024c4306bbbd912e8)] -> xpath: //input[@id='input-telephone']]
+Session ID: bb4f105ad54dc9f024c4306bbbd912e8
+2025-04-09 16:30:02 DEBUG TC001_AccountRegistrationTest:40 - debuglogs
+2025-04-09 16:30:07 INFO  TC002_LoginTest:17 - Staring TC001_Login
+2025-04-09 16:30:09 INFO  TC002_LoginTest:32 - Finished TC002_Login Sucess full
+2025-04-09 16:30:38 INFO  TC001_AccountRegistrationTest:13 - Staring TC001_AccountRegistration
+2025-04-09 16:30:38 INFO  TC001_AccountRegistrationTest:17 - clicked on the myaccount
+2025-04-09 16:30:39 INFO  TC001_AccountRegistrationTest:20 - clicked on the Registration
+2025-04-09 16:30:41 INFO  TC001_AccountRegistrationTest:43 - TC001 Account Registration TestCase Finished
+2025-04-09 16:30:45 INFO  TC002_LoginTest:17 - Staring TC001_Login
+2025-04-09 16:30:48 INFO  TC002_LoginTest:32 - Finished TC002_Login Sucess full

@@ -1,0 +1,48 @@
+2025-03-18 21:47:32 INFO  TC001_AccountRegistrationTest:13 - Staring TC001_AccountRegistration
+2025-03-18 21:47:33 INFO  TC001_AccountRegistrationTest:17 - clicked on the myaccount
+2025-03-18 21:47:34 INFO  TC001_AccountRegistrationTest:20 - clicked on the Registration
+2025-03-18 21:47:35 INFO  TC001_AccountRegistrationTest:43 - TC001 Account Registration TestCase Finished
+2025-03-18 22:19:58 INFO  TC001_AccountRegistrationTest:13 - Staring TC001_AccountRegistration
+2025-03-18 22:19:58 INFO  TC001_AccountRegistrationTest:17 - clicked on the myaccount
+2025-03-18 22:20:00 INFO  TC001_AccountRegistrationTest:20 - clicked on the Registration
+2025-03-18 22:20:03 INFO  TC001_AccountRegistrationTest:43 - TC001 Account Registration TestCase Finished
+2025-03-18 22:40:12 INFO  TC001_AccountRegistrationTest:13 - Staring TC001_AccountRegistration
+2025-03-18 22:40:12 ERROR TC001_AccountRegistrationTest:39 - testfailedno such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=134.0.6998.89)
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [d14a764e91583368fff1367ff06eecc5, findElement {using=xpath, value=//span[normalize-space()='My Account']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 134.0.6998.89, chrome: {chromedriverVersion: 134.0.6998.88 (7e3d5c978c6d..., userDataDir: C:\Users\SRIKAN~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63664}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63664/devtoo..., se:cdpVersion: 134.0.6998.89, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d14a764e91583368fff1367ff06eecc5
+2025-03-18 22:40:12 DEBUG TC001_AccountRegistrationTest:40 - debuglogs
+2025-03-18 22:40:41 INFO  TC001_AccountRegistrationTest:13 - Staring TC001_AccountRegistration
+2025-03-18 22:40:41 INFO  TC001_AccountRegistrationTest:17 - clicked on the myaccount
+2025-03-18 22:40:42 INFO  TC001_AccountRegistrationTest:20 - clicked on the Registration
+2025-03-18 22:40:44 INFO  TC001_AccountRegistrationTest:43 - TC001 Account Registration TestCase Finished
+2025-03-18 22:50:57 INFO  TC001_AccountRegistrationTest:13 - Staring TC001_AccountRegistration
+2025-03-18 22:50:57 INFO  TC001_AccountRegistrationTest:17 - clicked on the myaccount
+2025-03-18 22:50:58 INFO  TC001_AccountRegistrationTest:20 - clicked on the Registration
+2025-03-18 22:51:00 INFO  TC001_AccountRegistrationTest:43 - TC001 Account Registration TestCase Finished
+2025-03-18 22:52:59 INFO  TC001_AccountRegistrationTest:13 - Staring TC001_AccountRegistration
+2025-03-18 22:53:00 INFO  TC001_AccountRegistrationTest:13 - Staring TC001_AccountRegistration
+2025-03-18 22:53:00 INFO  TC001_AccountRegistrationTest:17 - clicked on the myaccount
+2025-03-18 22:53:00 INFO  TC001_AccountRegistrationTest:17 - clicked on the myaccount
+2025-03-18 22:53:01 INFO  TC001_AccountRegistrationTest:20 - clicked on the Registration
+2025-03-18 22:53:01 INFO  TC001_AccountRegistrationTest:20 - clicked on the Registration
+2025-03-18 22:53:03 INFO  TC001_AccountRegistrationTest:43 - TC001 Account Registration TestCase Finished
+2025-03-18 22:53:04 INFO  TC001_AccountRegistrationTest:43 - TC001 Account Registration TestCase Finished
+2025-03-18 22:56:10 INFO  TC001_AccountRegistrationTest:13 - Staring TC001_AccountRegistration
+2025-03-18 22:56:11 INFO  TC001_AccountRegistrationTest:17 - clicked on the myaccount
+2025-03-18 22:56:12 INFO  TC001_AccountRegistrationTest:20 - clicked on the Registration
+2025-03-18 22:56:14 INFO  TC001_AccountRegistrationTest:43 - TC001 Account Registration TestCase Finished
+2025-03-18 22:56:25 INFO  TC001_AccountRegistrationTest:13 - Staring TC001_AccountRegistration
+2025-03-18 22:56:25 INFO  TC001_AccountRegistrationTest:17 - clicked on the myaccount
+2025-03-18 22:56:26 INFO  TC001_AccountRegistrationTest:20 - clicked on the Registration
+2025-03-18 22:56:29 INFO  TC001_AccountRegistrationTest:43 - TC001 Account Registration TestCase Finished
+2025-03-18 22:57:29 INFO  TC001_AccountRegistrationTest:13 - Staring TC001_AccountRegistration
+2025-03-18 22:57:30 INFO  TC001_AccountRegistrationTest:13 - Staring TC001_AccountRegistration
+2025-03-18 22:57:30 INFO  TC001_AccountRegistrationTest:17 - clicked on the myaccount
+2025-03-18 22:57:30 INFO  TC001_AccountRegistrationTest:17 - clicked on the myaccount
+2025-03-18 22:57:31 INFO  TC001_AccountRegistrationTest:20 - clicked on the Registration
